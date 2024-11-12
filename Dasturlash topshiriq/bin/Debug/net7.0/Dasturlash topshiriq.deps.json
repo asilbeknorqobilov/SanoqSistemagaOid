@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Dasturlash topshiriq/1.0.0": {
+        "runtime": {
+          "Dasturlash topshiriq.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dasturlash topshiriq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
